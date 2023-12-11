@@ -1,2 +1,2 @@
 # MusicAI
-hello! welcome to the repo for this music ai project! beware that some content in this project violates some copyright laws.
+3-part deep learning system to predict genres of songs based on lyrics and MIDI melodies, as well as write lyrics for new songs based on genre and melodies.
